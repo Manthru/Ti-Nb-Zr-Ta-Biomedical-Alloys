@@ -1,0 +1,33 @@
+VICKERS HARDNESS TEST DATA
+
+Sample: Ti 30Nb 5Zr10Ta
+Applied Load: 0.2 kg
+Dwell Time: 15 sec
+
+------------------------------------------------------------
+No.     D1          D2          HV
+------------------------------------------------------------
+1       39.10       39.41       240.6
+2       38.46       39.45       244.3
+3       38.39       39.03       247.4
+4       38.24       39.09       248.0
+5       36.35       38.77       262.8
+6       37.83       38.46       254.8
+7       37.34       38.39       258.6
+------------------------------------------------------------
+
+AVERAGE VALUES
+Average D1 = 37.9586
+Average D2 = 38.9429
+Average HV  = 250.9286
+
+STANDARD DEVIATION (Sample SD)
+SD of D1 = 0.8950
+SD of D2 = 0.4230
+SD of HV  = 8.0251
+
+Summary:
+Vickers Hardness = 250.93 ± 8.03 HV
+Load = 0.2 kg
+Dwell Time = 15 sec
+Number of Measurements = 7
